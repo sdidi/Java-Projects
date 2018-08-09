@@ -1,4 +1,4 @@
 This simple app tests the following:
-1. SpringBoot with Redis - [an in memory storage, cache or messaging that supports data various data structure such as List, Hash , Map etc with a number of uses. A type of NoSQL].
+1. SpringBoot with Redis - [in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries. A type of NoSQL database used to optimize performance].
 2. Spring Boot with ThymeLeaf - a Java XML/XHTML/HTML5 Template Engine that can work both in web (Servlet-based) and non-web environments. Used to provide Spring Framework integration.
 3. Revise the RestFUl web services - uses the JSON REST end-points as an alternative to handling Http requests.
